@@ -88,6 +88,9 @@ h1 {
   font-weight: var(--font-weight-extra-bold);
   color: var(--gray-950);
 }
+h1:hover{
+  color: var(--color-yellow);
+}
 p {
   font-size: 0.8rem;
   line-height: 1.5;
